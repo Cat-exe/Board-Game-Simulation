@@ -1,0 +1,63 @@
+Rules:
+ 1. Land on a 0, you are safe.
+ 2. Land on a number greater than 0, and you move back that many spaces.
+ 3. Land on the -1 and you win the game!
+ _________________
+This is the game board:
+0 0 0 1 0 1 0 0 0 2 0 0 2 0 0 3 0 0 5 -1
+This is the deck:
+0 1 2 3 4 5 6 7 8 9
+How many players will be playing? Only 2-6 people may play. 4
+Enter name: Carol
+Enter name: Philip
+Enter name: Ky
+Enter name: Ross
+Player array successfully dynamically allocated.
+Ky will go first.
+Deck has been shuffled.
+Deck is now:
+9 5 1 0 3 6 8 4 2 7
+Ky, make your move.
+Ky has drawn a 7 card.
+Ky moved 7 spaces.
+Ky is now in location 7
+Ross, make your move.
+Ross has drawn a 2 card.
+Ross moved 2 spaces.
+Ross is now in location 2
+Carol, make your move.
+Carol has drawn a 4 card.
+Carol moved 4 spaces.
+Carol has landed on location 4, an obstacle, and must move back 1 spaces.
+Carol is now in location 3
+Philip, make your move.
+Philip has drawn a 8 card.
+Philip moved 8 spaces.
+Philip is now in location 8
+Ky, make your move.
+Ky has drawn a 6 card.
+Ky moved 6 spaces.
+Ky has landed on location 13, an obstacle, and must move back 2 spaces.
+Ky is now in location 11
+Ross, make your move.
+Ross has drawn a 3 card.
+Ross moved 3 spaces.
+Ross is now in location 5
+Carol, make your move.
+Carol has drawn a 0 card.
+Carol has lost a turn.
+Carol is now in location 3
+Philip, make your move.
+Philip has drawn a 1 card.
+Philip moved 1 spaces.
+Philip is now in location 9
+Ky, make your move.
+Ky has drawn a 5 card.
+Ky moved 5 spaces.
+Ky has landed on location 16, an obstacle, and must move back 4 spaces.
+Ky is now in location 12
+Ross, make your move.
+Ross has drawn a 9 card.
+
+Process returned -1073741819 (0xC0000005)   execution time : 10.604 s
+Press any key to continue.
